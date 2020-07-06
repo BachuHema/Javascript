@@ -1,0 +1,61 @@
+  
+{"details":{
+	"image":"download.png",
+	"name":"B Hema",
+	"email":"bachuhema@gmail.com",
+	"number":"9999999999",
+	"address":"kurnool"
+},
+"careerobjective":{
+	"info":"To become a software engineer"
+},
+"educationalqualification":
+[
+  
+	{
+	
+	"institute":"GPCET",
+	"degree":"btech",
+	"passoutyear":"2020",
+	"percentage":"72%"
+},
+{
+	
+	"institute":"Narayana",
+	"degree":"Inter",
+	"passoutyear":"2016",
+	"percentage":"93%"
+},
+{
+	
+	"institute":"Montessori Eng Medium School",
+	"degree":"10th",
+	"passoutyear":"2014",
+	"percentage":"93%"
+}
+],
+"techinicalskills":[{
+	"title":"Programming language",
+	"info":["c,c++,Java,Python"]
+},
+{
+  "title":"Databases",
+  "info":["sql,mysql"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,ubuntu"]
+}
+],
+"achievements":[
+  {
+      "title":"Prizes",
+      "info":"Won 1st prize at Poster presentation"
+  },
+  {
+    "title":"Extra Curricular Activities",
+    "info":"Participated various Techinical Events in College"
+  }
+]
+
+}
